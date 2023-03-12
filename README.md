@@ -1,0 +1,2 @@
+# jzr
+Arabic language stemmer
